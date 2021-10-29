@@ -1,0 +1,146 @@
+[15-Jun-2021 19:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 19:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 14
+[15-Jun-2021 20:27:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 15
+[15-Jun-2021 20:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 15
+[15-Jun-2021 20:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 15
+[15-Jun-2021 20:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/conconv.php on line 15
+[16-Jun-2021 15:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php on line 13
+[16-Jun-2021 15:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php on line 13
+[16-Jun-2021 15:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/sacardatos.php on line 13
+[16-Jun-2021 15:58:00 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 15:58:04 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:38:06 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[16-Jun-2021 17:38:06 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[16-Jun-2021 17:38:06 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[16-Jun-2021 17:38:06 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[16-Jun-2021 17:38:30 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:38:41 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:38:44 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:39:49 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_verbos.php on line 17
+[16-Jun-2021 17:48:51 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[16-Jun-2021 17:48:51 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[16-Jun-2021 17:48:51 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[16-Jun-2021 17:48:51 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[16-Jun-2021 17:49:17 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:49:23 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:51:11 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:52:12 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:52:14 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:52:36 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 17:52:46 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 18:01:35 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 18:46:40 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[16-Jun-2021 18:46:40 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[16-Jun-2021 18:46:40 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[16-Jun-2021 18:46:40 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[16-Jun-2021 18:48:26 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[16-Jun-2021 18:48:28 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[17-Jun-2021 13:26:59 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[17-Jun-2021 13:27:01 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[17-Jun-2021 13:44:53 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[17-Jun-2021 13:44:53 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[17-Jun-2021 13:44:53 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[17-Jun-2021 13:44:53 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[17-Jun-2021 16:00:28 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[17-Jun-2021 16:00:28 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[17-Jun-2021 16:00:28 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[17-Jun-2021 16:00:28 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[18-Jun-2021 18:13:20 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[18-Jun-2021 18:13:20 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[18-Jun-2021 18:13:20 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[18-Jun-2021 18:13:20 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[18-Jun-2021 20:07:12 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[18-Jun-2021 20:07:12 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[18-Jun-2021 20:07:12 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[18-Jun-2021 20:07:12 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[18-Jun-2021 20:07:15 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[18-Jun-2021 20:09:56 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[18-Jun-2021 20:38:14 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[18-Jun-2021 20:38:14 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[18-Jun-2021 20:38:14 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[18-Jun-2021 20:38:14 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[18-Jun-2021 20:38:17 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[18-Jun-2021 22:14:13 UTC] PHP Notice:  Undefined index: id_tema in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 16
+[18-Jun-2021 22:14:13 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[18-Jun-2021 22:14:13 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[18-Jun-2021 22:14:13 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[18-Jun-2021 22:14:13 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[19-Jun-2021 03:12:32 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[19-Jun-2021 03:12:32 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[19-Jun-2021 03:12:32 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[19-Jun-2021 03:12:32 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[19-Jun-2021 03:12:36 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[19-Jun-2021 03:12:43 UTC] PHP Notice:  Undefined index: email_user in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/atemascompletos.php on line 11
+[19-Jul-2021 00:37:22 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 18
+[19-Jul-2021 00:37:22 UTC] PHP Notice:  Undefined variable: temas_c in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 24
+[19-Jul-2021 00:37:22 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 36
+[19-Jul-2021 00:37:22 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 46
+[19-Jul-2021 14:59:47 UTC] PHP Notice:  Undefined index: ID in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_verbos.php on line 17
+[16-Sep-2021 23:20:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/pedir_preguntas.php on line 48
+[16-Sep-2021 23:33:32 UTC] PHP Notice:  Undefined variable: array_ids in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/pedir_preguntas.php on line 141
+[08-Oct-2021 22:54:01 UTC] PHP Notice:  Undefined index: id_tema in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 16
+[14-Oct-2021 00:29:37 UTC] PHP Notice:  Undefined index: id_tema in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 16
+[14-Oct-2021 00:29:38 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/hoqwku6covcv/public_html/IEPortal/alumno/ajax/enviar_respuestas.php on line 30
