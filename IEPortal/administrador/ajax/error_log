@@ -1,0 +1,49 @@
+[15-Jun-2021 19:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/pedir_categorias.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/pedir_categorias.php on line 13
+[15-Jun-2021 20:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/pedir_categorias.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/pedir_categorias.php on line 13
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 40
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 40
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 37
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 37
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 54
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 54
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 51
+[30-Jun-2021 20:59:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 51
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:02:13 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 32
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:13:07 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_pregunta.php on line 46
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 42
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 42
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 39
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 39
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 58
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 58
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 55
+[30-Jun-2021 21:18:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_pregunta.php on line 55
+[04-Jul-2021 16:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/pedir_preguntas.php on line 14
+[08-Aug-2021 17:51:01 UTC] PHP Warning:  move_uploaded_file(../../alumno/assets/img/Temas/HowMuch/HowMany.svg): failed to open stream: No such file or directory in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_temas.php on line 82
+[08-Aug-2021 17:51:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phparXV3U' to '../../alumno/assets/img/Temas/HowMuch/HowMany.svg' in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/agregar_temas.php on line 82
+[08-Aug-2021 17:51:43 UTC] PHP Warning:  move_uploaded_file(../../alumno/assets/img/Temas/HowMuch/HowMany.svg): failed to open stream: No such file or directory in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_temas.php on line 76
+[08-Aug-2021 17:51:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpw3MQpi' to '../../alumno/assets/img/Temas/HowMuch/HowMany.svg' in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_temas.php on line 76
+[08-Aug-2021 17:54:18 UTC] PHP Warning:  move_uploaded_file(../../alumno/assets/img/Temas/HowMuch/HowMany.svg): failed to open stream: No such file or directory in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_temas.php on line 76
+[08-Aug-2021 17:54:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxxbiny' to '../../alumno/assets/img/Temas/HowMuch/HowMany.svg' in /home/hoqwku6covcv/public_html/IEPortal/administrador/ajax/editar_temas.php on line 76
